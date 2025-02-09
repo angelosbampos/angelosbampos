@@ -1,6 +1,6 @@
 ## Welcome! 👋👨🏻‍💻🎓
 
-Hello there, I'm **Angelos Dimitrios Bampos**,or simply **Angel**,a recent **BSc in Informatics** graduate from the Aristotle University of Thessaloniki (AUTh). My focus lies in **software development**, **machine learning**, and **artificial intelligence**, with an aim to innovate through **robotics** and **international collaboration**.  
+Hello there, I'm **Angelos Dimitrios Bampos**,or simply **Angel**,a  graduate from the Aristotle University of Thessaloniki (AUTh) with a **BSc in Informatics**. My focus lies in **software development**, **machine learning**, and **artificial intelligence**, with an aim to innovate through **robotics** and **international collaboration**.  
 
 ## 🔍 About Me  
 
