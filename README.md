@@ -8,8 +8,11 @@ Hello there, I'm **Angelos Dimitrios Bampos**,or simply **Angel**,a  graduate fr
 - 💡 **Areas of Interest**: Artificial Intelligence, Robotics, Software Engineering, and Web Development  
 - 🎯 **Career Goals**: Contributing to cutting-edge technology projects while building expertise in AI-driven solutions and collaborative environments.  
 
-## 📚 Education  
+## 🎓 Education  
 
+- **MSc in Embedded Systems, Uppsala University** (2025-)
+  - Uppsala University
+  
 - **BSc in Informatics** (Sep 2016 - Dec 2024)  
   - Aristotle University of Thessaloniki (240 ECTS)  
   - **Thesis**: Evaluation of Model Tuner Tool in GLOW Framework  
