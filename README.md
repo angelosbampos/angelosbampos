@@ -10,7 +10,7 @@ Hello there, I'm **Angelos Dimitrios Bampos**,or simply **Angel**,a  graduate fr
 
 ## 🎓 Education  
 
-- **MSc in Embedded Systems, Uppsala University** (2025-)
+- **MSc in Embedded Systems** (2025-)
   - Uppsala University
   
 - **BSc in Informatics** (Sep 2016 - Dec 2024)  
