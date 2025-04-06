@@ -1,6 +1,9 @@
 ## Welcome! 👋👨🏻‍💻🎓
 
-Hello there, I'm **Angelos Dimitrios Bampos**,or simply **Angel**,a  graduate from the Aristotle University of Thessaloniki (AUTh) with a **BSc in Informatics**. My focus lies in **software development**, **machine learning**, and **artificial intelligence**, with an aim to innovate through **robotics** and **international collaboration**.  
+Hello there, I'm **Angelos Dimitrios Bampos**,or simply **Angel**,an Informatics BSc graduate from AUTh and current **MSc student in Embedded Systems** at Uppsala University.
+My focus lies in **software development**, **machine learning**, and the integration of **AI** into **embedded and robotic systems**, with a strong interest in **international collaboration** and **innovation-driven engineering**.
+
+
 
 ## 🔍 About Me  
 
@@ -11,7 +14,7 @@ Hello there, I'm **Angelos Dimitrios Bampos**,or simply **Angel**,a  graduate fr
 ## 🎓 Education  
 
 - **MSc in Embedded Systems** (2025-)
-  - Uppsala University
+  - Uppsala University (120 ECTS)
   
 - **BSc in Informatics** (Sep 2016 - Dec 2024)  
   - Aristotle University of Thessaloniki (240 ECTS)  
