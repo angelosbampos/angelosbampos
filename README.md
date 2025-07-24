@@ -13,7 +13,7 @@ My focus lies in **software development**, **machine learning**, and the integra
 
 ## 🎓 Education  
 
-- **MSc in Embedded Systems** (Sept 2025-June 2027)
+- **MSc in Embedded Systems** (Sept 2025 - June 2027)
   - Uppsala University (120 ECTS)
   
 - **BSc in Informatics** (Sep 2016 - Dec 2024)  
