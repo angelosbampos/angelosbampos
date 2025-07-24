@@ -36,6 +36,7 @@ My focus lies in **software development**, **machine learning**, and the integra
 
 ## 🌟 Certifications  
 
+- **Certificate of Specialized Proffesional Knowledge - Financial Literacy**, UCert Greece (May 2025)  
 - **Boost Your Productivity with Artificial Intelligence (AI)**, Grow with Google (Dec 2024)  
 - **Educational Program GenAI**, 100mentors (Nov 2024)  
 
