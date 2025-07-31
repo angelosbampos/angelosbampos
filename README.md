@@ -41,7 +41,7 @@ My focus lies in **software development**, **machine learning**, and the integra
 - **Educational Program GenAI**, 100mentors (Nov 2024)  
 
 ## 🏅 Volunteering & Memberships  
-- **Member**, UTN(Uppsala Union of Engineering and Science Students) (Apr 2025 - Present)  
+- **Member**, UTN/Uppsala Union of Engineering and Science Students (Apr 2025 - Present)  
   - Access to specialized university IT & Engineering resources and professional networks. 
 - **Member**, Hellenic Informatics Union (Dec 2024 - Present)  
   - Access to specialized IT resources and professional networks.  
