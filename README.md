@@ -1,6 +1,6 @@
 ## Welcome! 👋👨🏻‍💻🎓
 
-Hello there, I'm **Angelos Dimitrios Bampos**,or simply **Angel**,an Informatics BSc Graduate from AUTh and current **MSc student in Embedded Systems** at Uppsala University.
+Hello there, I'm **Angelos Dimitrios Bampos**,or simply **Angel**,an Informatics BSc Graduate from AUTh and currently an **MSc student in Embedded Systems** at Uppsala University.
 My focus lies in **software development**, **machine learning**, and the integration of **AI** into **embedded and robotic systems**, with a strong interest in **international collaboration** and **innovation-driven engineering**.
 
 
@@ -26,7 +26,7 @@ My focus lies in **software development**, **machine learning**, and the integra
 - **Programming Languages**: C, C++, Python, Java, SQL  
 - **Web Development**: HTML, CSS, JavaScript, PHP
 - **Soft Skills**: Collaboration, Problem-Solving, Time Management, Cross-Cultural Communication  
-- **Languages**: Greek (Native), English (C2), German (A1)  
+- **Languages**: Greek (Native), English (C2), German (A1),Swedish(A1)  
 
 ## 📈 Current Focus  
 
@@ -41,7 +41,8 @@ My focus lies in **software development**, **machine learning**, and the integra
 - **Educational Program GenAI**, 100mentors (Nov 2024)  
 
 ## 🏅 Volunteering & Memberships  
-
+- **Member**, UTN(Uppsala Union of Engineering and Science Students) (Apr 2025 - Present)  
+  - Access to specialized university IT & Engineering resources and professional networks. 
 - **Member**, Hellenic Informatics Union (Dec 2024 - Present)  
   - Access to specialized IT resources and professional networks.  
 - **Electoral Committee Member**, Municipality of Thessaloniki (Oct 2023)  
