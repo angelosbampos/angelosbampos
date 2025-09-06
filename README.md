@@ -7,7 +7,7 @@ My focus lies in **software development**, **machine learning**, and the integra
 
 ## 🔍 About Me  
 
-- 🌍 **Location**: Thessaloniki, Greece ( Moving to Uppsala, Sweden✈️🧳)  
+- 🌍 **Location**: Uppsala, Sweden🇸🇪  
 - 💡 **Areas of Interest**: Artificial Intelligence, Robotics, Embedded Systems, Software Engineering, and Web Development  
 - 🎯 **Career Goals**: Contributing to cutting-edge technology projects while building expertise in AI-driven solutions and collaborative environments.  
 
