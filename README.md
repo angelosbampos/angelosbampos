@@ -1,13 +1,13 @@
 ## Welcome! 👋👨🏻‍💻🎓
 
 Hello there, I'm **Angelos (Dimitrios) Bampos**,or simply **Angel**,an Informatics BSc Graduate from AUTh and currently an **MSc student in Embedded Systems** at Uppsala University.
-My focus lies in **software development**, **machine learning**, as well as **embedded and robotic systems**, with a strong interest in **international collaboration** and **innovation-driven engineering**.
+My focus lies in **Software Development**, **Machine Learning**, as well as **Embedded and Robotic systems**, with a strong interest in **international collaboration** and **innovation-driven engineering**.
 
 
 
 ## 🔍 About Me  
 
-- 🌍 **Location**: Uppsala, Sweden🇸🇪  
+- 🌍 **Location**: Uppsala, Sweden 🇸🇪  
 - 💡 **Areas of Interest**: Robotics, Embedded Systems, Artificial Intelligence, Software Engineering, and Web Development  
 - 🎯 **Career Goals**: Contributing to cutting-edge technology projects while building expertise in AI-driven solutions and collaborative environments.  
 
