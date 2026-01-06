@@ -1,14 +1,14 @@
 ## Welcome! 👋👨🏻‍💻🎓
 
 Hello there, I'm **Angelos (Dimitrios) Bampos**,or simply **Angel**,an Informatics BSc Graduate from AUTh and currently an **MSc student in Embedded Systems** at Uppsala University.
-My focus lies in **software development**, **machine learning**, and the integration of **AI** into **embedded and robotic systems**, with a strong interest in **international collaboration** and **innovation-driven engineering**.
+My focus lies in **software development**, **machine learning**, as well as **embedded and robotic systems**, with a strong interest in **international collaboration** and **innovation-driven engineering**.
 
 
 
 ## 🔍 About Me  
 
 - 🌍 **Location**: Uppsala, Sweden🇸🇪  
-- 💡 **Areas of Interest**: Artificial Intelligence, Robotics, Embedded Systems, Software Engineering, and Web Development  
+- 💡 **Areas of Interest**: Robotics, Embedded Systems, Artificial Intelligence, Software Engineering, and Web Development  
 - 🎯 **Career Goals**: Contributing to cutting-edge technology projects while building expertise in AI-driven solutions and collaborative environments.  
 
 ## 🎓 Education  
@@ -16,17 +16,17 @@ My focus lies in **software development**, **machine learning**, and the integra
 - **MSc in Embedded Systems** (Sept 2025 - June 2027)
   - Uppsala University (120 ECTS)
   
-- **BSc in Informatics** (Sep 2016 - Dec 2024)  
+- **BSc in Informatics** (Dec 2024)  
   - Aristotle University of Thessaloniki (240 ECTS)  
   - **Thesis**: Evaluation of Model Tuner Tool in GLOW Framework  
-  - Relevant Coursework: Artificial Intelligence, Machine Learning, Algorithms, Software Engineering, Mobile Applications Development  
+  - Relevant Coursework: Intelligent Autonomous Systems, Machine Learning, Algorithms, Software Engineering, Artificial Intelligence, Mobile Applications Development  
 
 ## 🛠️ Skills  
 
-- **Programming Languages**: C, C++, Python, Java, SQL  
+- **Programming Languages**: C, C++, Python, Java, SQL, Haskell, Ada  
 - **Web Development**: HTML, CSS, JavaScript, PHP
 - **Soft Skills**: Collaboration, Problem-Solving, Time Management, Cross-Cultural Communication  
-- **Languages**: Greek (Native), English (C2), German (A1),Swedish(A1)  
+- **Languages**: Greek (Native), English (C2), Swedish(A1)  
 
 ## 📈 Current Focus  
 
