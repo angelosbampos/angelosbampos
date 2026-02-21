@@ -19,7 +19,7 @@ My focus lies in **Software Development**, **Machine Learning**, as well as **Em
 - **BSc in Informatics** (Dec 2024)  
   - Aristotle University of Thessaloniki (240 ECTS)  
   - **Thesis**: Evaluation of Model Tuner Tool in GLOW Framework  
-  - Coursework: Intelligent Autonomous Systems, Machine Learning, Algorithms, Software Engineering, Artificial Intelligence, Mobile Applications Development among others. 
+  - __Coursework__: Intelligent Autonomous Systems, Machine Learning, Algorithms, Software Engineering, Artificial Intelligence, Mobile Applications Development among others. 
 
 ## 🛠️ Skills  
 
